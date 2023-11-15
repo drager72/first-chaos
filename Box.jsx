@@ -2,7 +2,7 @@ import React from 'react';
 
 function Box(props) {
   const clickMe = ()=>{
-    alert("CLICK CLOSE   ")
+    alert("CLICK CLOSE      ")
   }
   return (
     <div className='box'>
